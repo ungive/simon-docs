@@ -144,6 +144,6 @@ You can also edit the index of your previous `.description` message for more com
 
 ### About
 
-Simon is written in C# with the library Discord<span></span>.NET.  
-You can contact the author on Discord. His name is `Snrk#9259`.  
+Simon is written with Discord<span></span>.NET in C# by Jonas Vanen aka Snrk.
+You can talk to me on Discord (Snrk#9259).
 
