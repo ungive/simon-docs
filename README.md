@@ -48,10 +48,10 @@ English (`en`), German (`de`), French (`fr`), Italian (`it`), Spanish (`es`), Ja
 
 ### **Trivia Game**
 
->**Type `.trivia [format] [end_score]` to play the trivia game.**  
+>**Type `.trivia [end_score] [settings]` to play the trivia game.**  
 The goal of the game is to guess the name of a card as fast as possible by only looking at its picture.  
-**Format**: `Anime`, `TCG`, `OCG` (Default: all)  
-**End score**: The number of points that are needed to win the game. A scoreboard is displayed after each card (Default: 1).   
+**End Score**: The number of points that are needed to win the game. A scoreboard is displayed after each card (Default: 1).   
+**Settings**: `Anime`, `TCG`, `OCG`, `Hard`, `Hardmode` (Default: `TCG` & `OCG`)  
 **Alias**: `.t`  
 
 >**Type `.trivaquit` to stop the game.**  
