@@ -48,17 +48,17 @@ English (`en`), German (`de`), French (`fr`), Italian (`it`), Spanish (`es`), Ja
 
 ### **Trivia Game**
 
->**Type `.trivia [end_score] [settings]` to play the trivia game.**  
+>**Type `\trivia [end_score] [settings]` to play the trivia game.**  
 The goal of the game is to guess the name of a card as fast as possible by only looking at its picture.  
 **End Score**: The number of points that are needed to win the game. A scoreboard is displayed after each card (Default: 1).   
 **Settings**: `Anime`, `TCG`, `OCG`, `Hard`, `Hardmode` (Default: `TCG` & `OCG`)  
-**Alias**: `.t`  
+**Alias**: `\t`  
 
 >**Type `.trivaquit` to stop the game.**  
 Only the creator of the game and certain roles or users whitelisted in the server config are permitted to do this.  
-**Alias**. `.tq`  
+**Alias**. `\tq`  
 
-*`.t 10` starts a game that ends when someone reaches 10 points:*  
+*`\t 10` starts a game that ends when someone reaches 10 points:*  
 ![Trivia Game - Z-ONE](http://image.prntscr.com/image/9f22ade0b6f14bbe8757440d52f60419.png)
 
 --
