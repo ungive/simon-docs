@@ -1,5 +1,5 @@
 # **Simon**
-[![YGOPro Percy](http://i.imgur.com/v732Scx.png)](https://discord.gg/Rae2vZV)
+[![YGOPro Percy](http://i.imgur.com/v732Scx.png)](https://discord.gg/42yF7gS)
 
 *All commands are case-insensitive.*  
 ### Commands
@@ -61,7 +61,7 @@ Only the creator of the game and certain roles or users whitelisted in the serve
 *`\t 10` starts a game that ends when someone reaches 10 points:*  
 ![Trivia Game - Z-ONE](http://image.prntscr.com/image/9f22ade0b6f14bbe8757440d52f60419.png)
 
---
+---
 
 ### Server List
 
@@ -76,7 +76,7 @@ Only the creator of the game and certain roles or users whitelisted in the serve
 If you are interested in scripting Yu-Gi-Oh! cards join the `scripting_lua_101` channel on the YGOPro Percy server.  
 An Invitation link can be found at the top of this file.  
 
---
+---
 
 #### Constants
 
@@ -88,7 +88,7 @@ The result is formatted like this: `[index] hex_code | constant_name`.
 *`.constant effect`:*  
 ![Scripting Library - Constant](http://image.prntscr.com/image/70427f3c334b49bb972258397f41c4fd.png)
 
---
+---
 
 #### Functions
 
@@ -100,7 +100,7 @@ The result is formatted like this: `[index] return_type | function_name(params)`
 *`.function draw`:*  
 ![Scripting Library - Function](http://image.prntscr.com/image/357524c4c9c547babd3d8178b752410c.png)
 
---
+---
 
 #### Parameters
 
@@ -112,7 +112,7 @@ The result is formatted like this: `[index] type | parameter_name`.
 *`.param player`:*  
 ![Scripting Library - Parameter](http://image.prntscr.com/image/b7dd0266a98d4f0cac5212ad0b4eff82.png)
 
---
+---
 
 #### Page Browsing
 
@@ -126,7 +126,7 @@ You can also edit the page number of your previous `.page` message for more comf
 *`.page 2`:*  
 ![Scripting Library - Page](http://image.prntscr.com/image/94a4994324b14dbda9a0a7fa0a8773b8.png)
 
---
+---
 
 #### Descriptions
 
